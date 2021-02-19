@@ -1,0 +1,2 @@
+# AndroidDefineViewNote
+记录Android动效和自定view的性能优化方案
